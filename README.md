@@ -5,3 +5,4 @@ A full stack web application that is built using PostreSQL as the database, Gola
 - NextJS
 - Golang
 - PostreSQL
+- Docker & Docker Compose
