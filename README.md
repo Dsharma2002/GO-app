@@ -6,5 +6,5 @@ A backend web application that is built using PostreSQL as the database and Gola
 - Docker & Docker Compose
 
 ## Sample Images
-![Docker Containers](assets/docker-containers.png)
+![Docker Containers](assets/Docker-containers.png)
 ![PostgreSQL Database](assets/Postgres-sample.png)
